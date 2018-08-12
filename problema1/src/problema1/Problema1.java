@@ -23,8 +23,4 @@ public class Problema1 {
     public static void addList(String name){
         ListName.add(name);
     }
-    
-    public static void listAll(){
-        
-    }
 }
